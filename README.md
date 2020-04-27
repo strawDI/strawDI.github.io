@@ -4,10 +4,12 @@ This page is the official website of the Strawberry Digital Images (StrawDI) dat
 The capture device used was a Samsung Galaxy S7 Edge smartphone attached to an extendable arm. The images have a 4032 x 3024 resolution and are stored in JPEG format.
 
 ### Contributors
-- [Isaac Pérez](mailto:isaac.perez@dci.uhu.es)
-- [Diego Marin](mailto:diego.marin@diesia.uhu.es)
-- [Estefanía Cortés-Ancos](estefania.cortes@diesia.uhu.es)
-- [Manuel Emilio Gegúndez Arias](gegundez@uhu.es)
+- [Isaac Pérez*](mailto:isaac.perez@dci.uhu.es)
+- [Diego Marin*](mailto:diego.marin@diesia.uhu.es)
+- [Estefanía Cortés-Ancos*](estefania.cortes@diesia.uhu.es)
+- [Manuel Emilio Gegúndez Arias*](gegundez@uhu.es)
+
+_*Vision, Prediction, Optimisation and Control Systems Department, Science and Technology Research Centre, University of Huelva._
 
 ## StrawDI_Db1
 From the total set of images that make up the StrawDI data set, 3100 images have been selected at random. For each of these images a ground truth labelled image has been manually generated containing the individual segmentation of all the strawberries appearing in the image.
