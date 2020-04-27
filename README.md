@@ -22,11 +22,11 @@ Below are examples of our high quality pixel annotations. Overlayed colors encod
 
 Original image             |  Original image with annotations
 :-------------------------:|:-------------------------:
-![](https://github.com/strawDI/strawDI.github.io/blob/master/2647.png)  |  ![](https://github.com/strawDI/strawDI.github.io/blob/master/2647m.png)
-![](https://github.com/strawDI/strawDI.github.io/blob/master/2663.png)  |  ![](https://github.com/strawDI/strawDI.github.io/blob/master/2663m.png)
-![](https://github.com/strawDI/strawDI.github.io/blob/master/2780.png)  |  ![](https://github.com/strawDI/strawDI.github.io/blob/master/2780m.png)
-![](https://github.com/strawDI/strawDI.github.io/blob/master/404.png)  |  ![](https://github.com/strawDI/strawDI.github.io/blob/master/404m.png)
-![](https://github.com/strawDI/strawDI.github.io/blob/master/544.png)  |  ![](https://github.com/strawDI/strawDI.github.io/blob/master/544m.png)
+![](2647.png)  |  ![](2647m.png)
+![](2663.png)  |  ![](2663m.png)
+![](2780.png)  |  ![](2780m.png)
+![](404.png)  |  ![](404m.png)
+![](544.png)  |  ![](544m.png)
 
 
 ## Using the database
