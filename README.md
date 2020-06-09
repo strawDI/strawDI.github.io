@@ -43,7 +43,7 @@ Kindly provided by the StrawDI Team (see https://strawdi.github.io/).
 To inform us of a publication using StrawDI_Db1, or to give us any other feedback, please contact [Isaac Pérez](mailto:isaac.perez@dci.uhu.es) or [Diego Marin](mailto:diego.marin@diesia.uhu.es).
 
 ## Download
-To download the database: [StrawDI_Db1](https://strawdi.github.io/)
+To download the database: [StrawDI_Db1](https://drive.google.com/file/d/1elFB-q9dgPbfnleA7qIrTb96Qsli8PZl/view)
 
 ## License
 This dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree:
