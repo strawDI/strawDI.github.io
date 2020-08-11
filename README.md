@@ -1,7 +1,10 @@
 ## Introduction
-This page is the official website of the Strawberry Digital Images (StrawDI) data set, which contains 8000 images of strawberries, taken from 20 plantations, within an approximate area of 150 hectares, in the province of Huelva, Spain. The plantations were not changed in any way for the experiment and the images were taken from real production conditions during a full picking campaign (from mid-December to early May 2019).
+This page is the official website of the Strawberry Digital Images (StrawDI) data set, which contains 8000 images of strawberries, taken from 20 plantations, within an approximate area of 150 hectares, in the province of Huelva, Spain. The plantations were not changed in any way for the experiment and the images were taken from real production conditions during a full picking campaign (from mid-December 2018 to early May 2019).
 
 The capture device used was a Samsung Galaxy S7 Edge smartphone attached to an extendable arm. In order to build a data set close to the target application, the images were taken under different conditions of brightness, at a distance of approximately 20 cm from the ridge, at about 35 +-10 cm height and an approximate angle of 25 +-10º. The images have a 4032x3024 resolution and are stored in a JPEG format.
+
+<img src="https://github.com/strawDI/strawDI.github.io/blob/master/ridge.png" width="300">
+<br>
 
 ### Contributors
 - [Isaac Pérez*](mailto:isaac.perez@dci.uhu.es)
@@ -18,6 +21,8 @@ To reduce the computational demands on the models, the images have been rescaled
 
 ### Labeling Policy
 The image labelling process has been validated by three blind reviews of the data with four reviewers, thus guaranteeing the quality of the segmentations. The criterion followed in the labelling process consists of creating as accurate a mask as possible for each of the strawberries appearing in the image, including extreme cases such as strawberries that are almost imperceptible due to distance, occlusions, being at the edges of the image or still unripe.
+
+The ground truth images are grayscale images that are the same size as the original rgb images and they are stored in PNG format. In the ground truth images, the value 0 is used for non-strawberry pixels, and strawberry pixels have the index of their strawberry, from 1 to the number of strawberries in the image.
 
 ### Examples
 Below are examples of our high quality pixel annotations. Overlayed colors encode individual instances of strawberries. 
