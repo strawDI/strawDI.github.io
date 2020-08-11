@@ -3,7 +3,7 @@ This page is the official website of the Strawberry Digital Images (StrawDI) dat
 
 The capture device used was a Samsung Galaxy S7 Edge smartphone attached to an extendable arm. In order to build a data set close to the target application, the images were taken under different conditions of brightness, at a distance of approximately 20 cm from the ridge, at about 35 +-10 cm height and an approximate angle of 25 +-10º. The images have a 4032x3024 resolution and are stored in a JPEG format.
 
-<img src="https://github.com/strawDI/strawDI.github.io/blob/master/ridge.png" width="300">
+<img src="https://raw.githubusercontent.com/strawDI/strawDI.github.io/master/ridge.png" width="300">
 <br>
 
 ### Contributors
